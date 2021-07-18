@@ -73,7 +73,8 @@ public class RunCounter {
 		job.setInputFormatClass(TextInputFormat.class);
 		job.setOutputFormatClass(TextOutputFormat.class);
 		
-		FileInputFormat.addInputPath(job, new Path("/mooccount/input"));
+		//FileInputFormat.addInputPath(job, new Path("/mooccount/input"));
+		FileInputFormat.setInputPaths(job, "/mooccount/input/*");
 		Path outPath = new Path("/mooccount/output");
 		if (fs.exists(outPath)) {
 			fs.delete(outPath, true);
