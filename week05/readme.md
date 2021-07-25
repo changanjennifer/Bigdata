@@ -127,9 +127,9 @@
 
 1. Server执行结果：
 
-   ![](https://github.com/changanjennifer/Bigdata/blob/main/week05/hadoopRpc-Server.png)
+![enter image description here](https://github.com/changanjennifer/Bigdata/blob/main/week05/hadoopRpc-Server.png)
 
 2.  Client 执行结果：
 
-![](https://github.com/changanjennifer/Bigdata/blob/main/week05/hadoopRpc-client-result.png)
+![enter image description here](https://github.com/changanjennifer/Bigdata/blob/main/week05/hadoopRpc-client-result.png)
 
