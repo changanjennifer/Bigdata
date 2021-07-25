@@ -127,8 +127,9 @@
 
 1. Server执行结果：
 
-   ![hadoopRpc-Server](E:\03-Jennifer\GeekBigdata\week05\hadoopRpc-Server.png)
+   ![](https://github.com/changanjennifer/Bigdata/blob/main/week05/hadoopRpc-Server.png)
 
 2.  Client 执行结果：
 
-![](E:\03-Jennifer\GeekBigdata\week05\hadoopRpc-client-result.png)
+![](https://github.com/changanjennifer/Bigdata/blob/main/week05/hadoopRpc-client-result.png)
+
