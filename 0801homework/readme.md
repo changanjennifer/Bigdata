@@ -54,7 +54,7 @@ group by u.age;
 
 执行结果：
 
-![](E:\03-Jennifer\GeekBigdata\0801homework\firstSQL-hue-resut1.png)
+![firstSQL-hue-resut1.png](https://github.com/changanjennifer/Bigdata/blob/main/0801homework/firstSQL-hue-resut1.png)
 
 #### 题目二
 
@@ -75,7 +75,7 @@ limit 10;
 
 执行结果：
 
-![](E:\03-Jennifer\GeekBigdata\0801homework\secondSQL-hue-result-2.png)
+![secondSQL-hue-result-2.png](https://github.com/changanjennifer/Bigdata/blob/main/0801homework/secondSQL-hue-result-2.png)
 
 成功的log
 
