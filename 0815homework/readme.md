@@ -38,7 +38,7 @@ sparkDistCp hdfs://xxx/source hdfs://xxx/target
 
 ### 编程中的注意事项
 
-1.  老师提醒， 读取文件时，不建议用sc.wholeTextFile, 这个方法一次性将文件加载到内存，当遇到大文件时，很容易造成内存溢出。
+1.  老师提醒， 读取文件时，不建议用sc.wholeTextFiles(）, 这个方法一次性将文件加载到内存，当遇到大文件时，很容易造成内存溢出。
 
 2.  第二个练习中，现在对target目录的做法是用String.replace实现的，输入的Input/output必须要是全路径，不能是相对路径，不然就会发现这个语句不起作用的情况。
 
