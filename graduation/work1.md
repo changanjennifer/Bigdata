@@ -60,17 +60,17 @@ ORDER BY cnt DESC
 
 ###  SQL 执行图如下:
 
-![sql-exec1](sql-exec1.png)
+![sql-exec1](https://github.com/changanjennifer/Bigdata/blob/main/graduation/sql-exec1.png)
 
 
 
-![sql-exec2](sql-exec2.png)
+![sql-exec2](https://github.com/changanjennifer/Bigdata/blob/main/graduation/sql-exec2.png)
 
-![sql-exec3](sql-exec3.png)
+![sql-exec3](https://github.com/changanjennifer/Bigdata/blob/main/graduation/sql-exec3.png)
 
 执行汇总信息
 
-![sql-exec4](sql-exec4.png)
+![sql-exec4](https://github.com/changanjennifer/Bigdata/blob/main/graduation/sql-exec4.png)
 
 
 

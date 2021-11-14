@@ -8,7 +8,7 @@
 
 参见下图：
 
-![bigdata-lambda](bigdata-lambda.png)
+![bigdata-lambda](https://github.com/changanjennifer/Bigdata/blob/main/graduation/bigdata-lambda.png)
 
 
 
@@ -26,7 +26,7 @@ Lambda架构分为三层：
 
 下图给出了Lambda架构的一个完整视图和流程。
 
-![all-view](all-view.png)
+![all-view](https://github.com/changanjennifer/Bigdata/blob/main/graduation/all-view.png)
 
 
 
